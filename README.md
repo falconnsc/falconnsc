@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @falconnsc
-- 👀 I’m interested in 如何制作一个minecraft的mod
+- 👀 I’m interested in How to make a MineCraft mod 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 15065886827@163.com
