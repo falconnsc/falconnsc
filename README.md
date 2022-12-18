@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @falconnsc
+- 👋 Hi, I’m @falconsc
 - 👀 I’m interested in How to make a MineCraft mod 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
