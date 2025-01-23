@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @falconsc
-- 👀 I’m interested in How to make a MineCraft mod 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in How to make game 
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 15065886827@163.com
 
